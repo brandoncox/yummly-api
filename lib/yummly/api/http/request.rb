@@ -9,6 +9,8 @@ module Yummly
                           "Content-Type" => "application/json"
                           }
         
+        CONTEXT = "api.yummly.com"
+        VERSION = "v1"
         
         def initialize()
           
