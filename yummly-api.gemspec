@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Yummly::Api::VERSION
   spec.authors       = ["Brandon Cox"]
   spec.email         = ["brandon.cox.519@gmail.com"]
-  spec.summary       = %q{Easy Ruby interface for the Yummly Interface (http://www.yummly.com)}
-  spec.homepage      = ""
+  spec.summary       = %q{Ruby interface for the Yummly API (http://www.yummly.com)}
+  spec.homepage      = "TBD"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
